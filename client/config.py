@@ -1,2 +1,2 @@
 # API_URL="http://127.0.0.1:8000"
-API_URL="https://end-to-end-ai-information-retrieval.onrender.com"
+API_URL="https://end-to-end-ai-information-retrieval-s2qs.onrender.com"
